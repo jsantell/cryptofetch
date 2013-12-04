@@ -1,4 +1,4 @@
-var fetch = require('cryptofetch');
+var fetch = require('../');
 var when = require('when');
 var chai = require('chai');
 var expect = chai.expect;
