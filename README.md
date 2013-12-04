@@ -2,6 +2,8 @@
 
 Fetch market data from cryptocurrency exchanges
 
+[![Build Status](https://travis-ci.org/jsantell/cryptofetch.png)](https://travis-ci.org/jsantell/cryptofetch)
+
 ## Install
 
 ```

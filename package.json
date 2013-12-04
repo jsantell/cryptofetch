@@ -16,7 +16,7 @@
     "url": "http://github.com/jsantell/cryptofetch"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd"
+    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd --timeout 8000"
   },
   "keywords": [
     "bitcoin", "cryptocurrency", "altcoins", "litecoin", "btc", "ltc",
