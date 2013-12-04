@@ -1,6 +1,6 @@
 {
   "name": "cryptofetch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fetch market data from cryptocurrency exchanges",
   "main": "index.js",
   "dependencies": {
