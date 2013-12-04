@@ -1,0 +1,27 @@
+{
+  "name": "cryptofetch",
+  "version": "0.1.0",
+  "description": "Fetch market data from cryptocurrency exchanges",
+  "main": "index.js",
+  "dependencies": {
+    "request": "~2.27.0",
+    "when": "~2.7.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jsantell/cryptofetch"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec --ui bdd"
+  },
+  "keywords": [
+    "bitcoin", "cryptocurrency", "altcoins", "litecoin", "btc", "ltc",
+    "xpm", "ppc", "qrk", "peercoin", "primecoin", "api", "market"
+  ],
+  "author": "Jordan Santell",
+  "license": "MIT"
+}
